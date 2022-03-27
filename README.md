@@ -1,2 +1,2 @@
 # TrascrizioniMusica
-Mie trascrizionin partiture con Muse Scure
+Mie trascrizion in partiture con Muse Scure
